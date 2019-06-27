@@ -1,0 +1,89 @@
+body
+{
+    background-color: #F9FFFD
+}
+
+.titulo
+{
+    color:#000000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 5em;
+    text-align: center;
+}
+.titulo2
+{
+    color:#B30707;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+}
+.titulo3
+{
+font-size: 4em;
+text-align: center;
+color: #087D9C;
+font-family: Verdana, Geneva, Tahoma, sans-seri;
+font-family: Georgia, 'Times New Roman', Times, serif
+}
+.imagen
+{
+    width: 600px;
+    height: 650px;
+    margin-left: 25%;
+}
+.imagen2
+{
+    width: 500px;
+}
+.imagen3
+{
+    width: 700px;
+}
+.imagen4
+{
+    width: 800;
+}
+.btn-primary
+{
+    background-color: coral
+}
+.suvida
+{
+font-size: 1.25em;
+margin-left: 50px;
+margin-right: 50px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.pie
+{
+inline: block;
+background-color: #000000;
+height: 80px;
+}
+.insta
+{
+    padding: 10px;
+    width: 80px;
+    height:80px;
+}
+.facebook
+{
+    padding: 10px;
+    width: 80px;
+    height:80px;
+}
+.twitter
+{
+    padding: 10px;
+    width: 80px;
+    height:80px;
+}
+.fan
+{
+    inline: block;
+    background-color: #4B4A32 !important;
+    text-align: center;
+    color: white;
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
